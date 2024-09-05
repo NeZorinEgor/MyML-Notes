@@ -9,3 +9,4 @@
 7. [Решающие деревья](07_Decision_Tree)
 8. [Ансамблирование](08_Ensemble)
 9. [Поиск выбросов](09_Emission_Search)
+10. [Feature Selection](10_Feature_Selection)
